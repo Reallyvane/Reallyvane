@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 My name is Vanessa Pineiro Morales</h1>
 
-<h3 align="center">Front-End Developer</h3>
+<h2 align="center">Front-End Developer</h2>
 <p align="center">
  🌍  I'm based in Homestead, FL <br>
  ✉️  You can contact me at <a href="mailto:contact.nesdevs@gmail.com">contact.nesdevs@gmail.com</a> <br>
@@ -33,9 +33,7 @@
 <a href="https://www.twitter.com/officialnesdevs" target="_blank" rel="noreferrer"><img src="./icons/twitter.png" /></a>
 </p>
 
-<h3 align="center">Badges</h3>
-
-<h4 align="center">My GitHub Stats</h4>
+<h3 align="center">My GitHub Stats</h3>
 
 <p align="center"><a href="http://www.github.com/Reallyvane"><img src="https://github-readme-stats.vercel.app/api?username=Reallyvane&show_icons=true&hide=prs,contribs&count_private=true&title_color=f3b5d4&text_color=ffffff&icon_color=f3b5d4&bg_color=000000&hide_border=true&show_icons=true" alt="Reallyvane's GitHub stats" /></a> <br>
  <a href="https://github.com/Reallyvane"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reallyvane&langs_count=10&title_color=f3b5d4&text_color=ffffff&icon_color=f3b5d4&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><br>
