@@ -20,7 +20,7 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="./icons/bootstrap.png" alt="Bootstrap" /></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./icons/science.png" alt="React" /></a> 
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="./icons/sass.png" alt="Sass" /></a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="32" height="32" alt="TailwindCSS" /></a> </p> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./icons/tailwind.png" height="32" width="32" alt="TailwindCSS" /></a> </p> 
 
 <h3 align="center">Socials</h3>
 
