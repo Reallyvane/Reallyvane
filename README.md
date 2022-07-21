@@ -2,10 +2,8 @@
 
 <h2 align="center">Front-End Developer</h2>
 <p align="center">
- 🌍  I'm based in Homestead, FL <br>
- ✉️  You can contact me at <a href="mailto:contact.nesdevs@gmail.com">contact.nesdevs@gmail.com</a> <br>
- 🧠  I'm learning JavaScript, React, and Tailwind <br>
- 🤝  I'm open to collaborating on any projects!<br>
+ 🧠  I'm learning JavaScript & React <br>
+ 🤝  I'm open to collaborating!<br>
 </p>
 
 <p align="center">
